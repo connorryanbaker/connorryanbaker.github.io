@@ -1,4 +1,18 @@
-baseURL: http://example.org/
+baseURL: https://connorryanbaker.github.io/
 languageCode: en-us
-title: My New Hugo Site
+title: Connor Baker | Software Engineer
 theme: PaperMod
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about
+      weight: 10
+    - identifier: github
+      name: github
+      url: https://github.com/connorryanbaker
+      weight: 10
+    - identifier: linkedin
+      name: linkedin
+      url: https://www.linkedin.com/in/connor-baker-697b79181/
+      weight: 10
