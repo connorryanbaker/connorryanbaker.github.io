@@ -1,6 +1,5 @@
 ---
 title: "Hello!"
-draft: true
 ---
 
 I'm Connor - software engineer and lifelong learner.
