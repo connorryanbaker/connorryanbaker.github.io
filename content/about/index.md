@@ -2,7 +2,7 @@
 title: "Hello!"
 ---
 
-I'm Connor - software engineer and lifelong learner.
+I'm Connor, software engineer and lifelong learner.
 
 As a relative latecomer to the world of development, I enjoy learning more about how the tools we use everyday work "under the hood", as well as just about anything that makes reading and writing code fun.
 
