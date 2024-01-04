@@ -1,1 +1,1 @@
-![image](./cb_papa.jpg)
+![image](https://dmixaym6h79hg.cloudfront.net/cb_papa.jpg)
