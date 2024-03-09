@@ -1,7 +1,6 @@
 ---
 title: "Best Fifteen Bucks I Ever Spent"
 date: 2024-03-09T15:41:26-05:00
-draft: true
 ---
 
 # KMG
