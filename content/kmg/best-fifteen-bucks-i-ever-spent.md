@@ -23,7 +23,7 @@ as Mollie or Gus :)
 ## Development
 
 I've always been inspired by Hackernews posts about the value of finishing
-a game - though the concept of a "finished" game is subjective, picking a small
+a game. While the concept of a "finished" game is subjective, picking a small
 and well-defined enough scope, sticking to a deadline and actually releasing are indeed helpful motivators and quite satisfying.
 
 ![KMG Level 3](https://dmixaym6h79hg.cloudfront.net/lvl3.png)
@@ -32,9 +32,9 @@ Publishing our [first PICO-8 game on
 itch.io](https://chunkilu.itch.io/frite-lite) gave us a sufficient confidence
 boost to try and tackle a more complex game and Christmas provided a natural
 deadline.
-Seeing our incremental progress day by day over the course of the holiday
-season eventually build into a playable game was incredibly motivating and we
-met our target date comfortably.
+Seeing our incremental progress over the course of the holiday
+season build day-by-day into a playable game was incredibly exciting and motivating and we
+met our target date comfortably :D
 
 
 While this codebase admittedly showcases a number of programming
